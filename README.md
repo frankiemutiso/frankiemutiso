@@ -1,1 +1,1 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frankiemutiso&layout=compact)](https://github.com/frankiemutiso/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frankiemutiso)](https://github.com/anuraghazra/github-readme-stats)
